@@ -10,13 +10,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm **Junquan Deng**.
+Hi, I'm **Junquan Deng**, a master student at the Institute of Software, Chinese Academy of Sciences. I am advised by [**Prof. Purui Su**](https://scholar.google.com/citations?user=VKrv2JgAAAAJ) and [**Assoc. Prof. Xiangkun Jia](https://ajax4sec.github.io). My research interests include **Software Security**, **Software Testing**, and **Program Analysis**.
 
 # 🔥 News
 - No news is good news.
 
 
-# 📝 Publications 
+# 📝 Publications
+
+- To be published.
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
@@ -29,9 +31,7 @@ Hi, I'm **Junquan Deng**.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<!-- # 🎖 Honors and Awards -->
 
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, Master Student, Software Engineering, [Institute of Software](http://www.iscas.ac.cn), Chinese Academy of Sciences, Beijing, China.
